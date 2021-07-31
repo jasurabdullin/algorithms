@@ -1,0 +1,22 @@
+{
+  "name": "algorithms-javascript",
+  "version": "1.0.0",
+  "description": "Repository for algorithm solutions in JavaScript by Jasur Abdullin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasurabdullin/algorithms-javascript.git"
+  },
+  "author": "Jasur Abdullin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasurabdullin/algorithms-javascript/issues"
+  },
+  "homepage": "https://github.com/jasurabdullin/algorithms-javascript#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
