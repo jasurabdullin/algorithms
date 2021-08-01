@@ -7,12 +7,16 @@
 //   palindrome("abba") === true
 //   palindrome("abcdefg") === false
 
+// Solution #1
+
 // const palindrome = (string) => {
 //     // reverse the string into a const called reversedString
 //     // directly compare string and reversedString and return the result
 //     const reversedString = string.split('').reverse().join('');
 //     return string === reversedString;
 // };
+
+// Solution #2
 
 const palindrome = (string) => {
     // turn string into array

@@ -5,6 +5,8 @@
 // maxChar("abcccccccd") === "c"
 // maxChar("apple 1231111") === "1"
 
+// Solution #1
+
 const maxChar = (string) => {
     // map characters in the string into an object where the key is the character 
     // and the value is the number of times it occurs in the string

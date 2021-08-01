@@ -5,6 +5,8 @@
 //   reverse('hello') === 'olleh'
 //   reverse('Greetings!') === '!sgniteerG'
 
+// Solution #1
+
 // const reverse = (string) => {
 //     // turn string into an array
 //     // call .reverse() on the array
@@ -12,6 +14,8 @@
 //     // return the result
 //     return string.split('').reverse().join('');
 // };
+
+// Solution #2
 
 // const reverse = (string) => {
 //     // create an empty string called reversedString
@@ -23,6 +27,8 @@
 //     }
 //     return reversedString;
 // };
+
+// Solution #3
 
 const reverse = (string) => {
     // turn string into array with .split()

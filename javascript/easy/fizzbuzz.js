@@ -10,6 +10,8 @@
 //   4
 //   buzz
 
+// Solution #1
+
 const fizzBuzz = (number) => {
     // iterate from 1 to the given number using classic for loop
     // user modulo operator on the given number and check if the result is 0
