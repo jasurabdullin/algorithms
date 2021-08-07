@@ -3,9 +3,9 @@ My personal repo for all algorithms that I haved learned and solved 🎉
 
 ## Big 'O' Notation
 
-> O(n) --> Linear
-> O(1) --> Constant
-> O(n<sup>2</sup>) --> Quadratic
+> O(n) --> Linear | n
+> O(1) --> Constant | 1
+> O(n<sup>2</sup>) --> Quadratic | n<sup>2</sup>
 
 ## Common Types of Runtimes
 
