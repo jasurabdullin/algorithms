@@ -17,6 +17,9 @@
 //       '####'
 
 // Solution #1 - Iteration
+// Runtime Complexity:
+    // - as "number" increased by one, we had to do way more stuff, or (number * number) things total
+    // - this would be N^2, which is "quadratic" runtime
 
 const steps = (number) => {
     // from 0 to N, create an empty string variable named 'stair'

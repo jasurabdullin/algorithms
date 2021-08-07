@@ -76,9 +76,6 @@ const matrix = (number) => {
 
         return spiral;
     }
-
-    
-
 };
 
 module.exports = matrix;

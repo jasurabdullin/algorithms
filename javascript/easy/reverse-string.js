@@ -16,6 +16,9 @@
 // };
 
 // Solution #2
+// Runtime Complexity:
+    // - each additional character = one step through one loop
+    // - this would be 'N', which is "linear" runtime
 
 // const reverse = (string) => {
 //     // create an empty string called reversedString
