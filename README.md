@@ -23,7 +23,7 @@ My personal repo for all algorithms that I haved learned and solved 🎉
 > Increasing the input by one increases the time it takes the complete the operation by one plus a little bit of time
 > Always assume that **most** sorting operations are n*log(n)
 
-### Quadratic Time | _n^2^_
+### Quadratic Time | _n<sup>2</sup>_
 
 > Every element in a collection has to be compared to every other element
 
