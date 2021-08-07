@@ -3,11 +3,13 @@ My personal repo for all algorithms that I haved learned and solved 🎉
 
 ## Big 'O' Notation
 
-> O(n) --> Linear | n
-> O(1) --> Constant | 1
-> O(n<sup>2</sup>) --> Quadratic | n<sup>2</sup>
+- O(n) --> Linear | n
+- O(1) --> Constant | 1
+- O(n<sup>2</sup>) --> Quadratic | n<sup>2</sup>
 
 ## Common Types of Runtimes
+
+> Runtime complexity describes the performance of an algorithm. How much more processing power/time is required to run your alogorithm if we double the inputs?
 
 ### Constant Time | _1_
 
@@ -36,3 +38,13 @@ My personal repo for all algorithms that I haved learned and solved 🎉
 ### Exponential Time | _2<sup>n</sup>_
 
 > If you add a **single** element to a collection, the proccessing power required doubles
+
+## Identifying Runtime Complexity
+
+- Iterating with a simple `for` loop through a single collection? --> Probably O(n) (linear)
+- Iterating through hald a collection? --> Still O(n). There are no constants in runtime (linear)
+- Iterating through two **different** collections with separate `for` loops? --> O(n + m)
+- Two nested `for` loops iterating over the **same** collection? --> O(n<sup>2</sup>) (quadratic)
+- Two nested `for` loops iterating over the **different** collections? --> O(n<sup>m</sup>)
+- Sorting? --> O(n*log(n))
+- Searching a sorted array? --> O(log(n))
