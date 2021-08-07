@@ -27,6 +27,6 @@ My personal repo for all algorithms that I haved learned and solved 🎉
 
 > Every element in a collection has to be compared to every other element
 
-### Exponential Time | _2^n^_
+### Exponential Time | _2<sup>n</sup>_
 
 > If you add a **single** element to a collection, the proccessing power required doubles
