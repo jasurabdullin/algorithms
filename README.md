@@ -1,6 +1,12 @@
 # Algorithms
 My personal repo for all algorithms that I haved learned and solved 🎉
 
+## Big 'O' Notation
+
+> O(n) --> Linear
+> O(1) --> Constant
+> O(n<sup>2</sup>) --> Quadratic
+
 ## Common Types of Runtimes
 
 ### Constant Time | _1_
