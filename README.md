@@ -48,3 +48,6 @@ My personal repo for all algorithms that I haved learned and solved 🎉
 - Two nested `for` loops iterating over the **different** collections? --> O(n<sup>m</sup>)
 - Sorting? --> O(n*log(n))
 - Searching a sorted array? --> O(log(n))
+
+## Memoization
+> Store the arguments of each function call along with the result. If the function is called again, with the <em>same arguments</em>, return the precomputed result, rather than running the function again.
